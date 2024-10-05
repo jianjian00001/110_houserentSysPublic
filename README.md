@@ -12,7 +12,7 @@
 [https://www.bilibili.com/video/BV1Jw411W7Pe/](https://www.bilibili.com/video/BV1Jw411W7Pe/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的房屋租赁系统小程序(源码+数据库)110
 
